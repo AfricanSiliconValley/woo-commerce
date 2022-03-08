@@ -1,5 +1,5 @@
 === SiliconPay WooCommerce Payment Gateway ===
-Contributors: S.A.I.V.O.U.R
+Contributors: Silicon Savannah
 Tags: Silicon pay, woocommerce, payment gateway, plugins, mobile money, uganda, mastercard, visa
 Requires at least: 4.7
 Tested up to: 5.8
