@@ -1,2 +1,1 @@
-# woo-commerce
-Woo-commerce Plugin for Silicon Pay
+"# siliconPay-woo-commerce-plugin" 
